@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Maze Escape Adventure",
+  "description": "A fun and challenging maze puzzle game where you guide an avatar to the goal. Features randomly generated mazes, selectable characters, multiple difficulty levels, and a path solver.",
+  "requestFramePermissions": []
+}
